@@ -1,7 +1,7 @@
 function carregar() {
 
     var data = new Date()
-    let hora = data.getHours()
+    var hora = data.getHours()
 
     var titulo = document.getElementById('titulo')
     var container = document.getElementById('contImg')
